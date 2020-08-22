@@ -47,6 +47,6 @@
     "not dead"
   ],
   "gitHooks": {
-    "pre-commit": "vue-cli-service lint && git add"
+    "pre-commit": "vue-cli-service lint"
   }
 }
